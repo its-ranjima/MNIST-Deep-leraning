@@ -1,4 +1,4 @@
-#  MNIST Handwritten Digit Recognition (Deep Learning Project)
+#  MNIST Handwritten Digit Recognition 
 
 ![Screenshot 2025-06-11 125827](https://github.com/user-attachments/assets/a10e92b7-b816-4bfe-b18c-44e66eb1b96a)
 
